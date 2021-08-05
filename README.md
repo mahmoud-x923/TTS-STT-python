@@ -22,7 +22,7 @@ This is the main engin of the code. It combines the two passed files in order to
 
 ## How to use 
 ### Change text and audio output files paths
-You can edit outpot files path in *driver.py* at line **8** for the text file, and at line **13** for the audio file.
+You can edit output files path in *driver.py* at line **8** for the text file, and at line **13** for the audio file.
 
 Then, in order to use this program you will need to install some python packages first.
 
